@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-carbon-interface",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Carbon Interface MCP — Carbon Interface API (v1)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-5e85a443aae223aac71aaa7acb526f9f0e70cad38287e63b70406875dc32ff09",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-1d03536ee0db4b7a864a3083338cb6fd18e6bb6712be030b7d5011c6f7d70256",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
