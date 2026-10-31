@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-carbon-interface",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Carbon Interface MCP — Carbon Interface API (v1)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "carbon-interface",
     "gatewaySlug": "carbon-interface",
-    "sourceHash": "v1-cb71f0d4360caca51f8fd287766ed47575dcf68c69a6089d2c4ae77be2c833a4",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-c3afcd9341b60600e3e714d6296a16c2f5742afbad56f707fa461d9951331b9f",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
